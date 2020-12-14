@@ -4,7 +4,7 @@
 #
 Name     : idle-python3.7-assets
 Version  : 1.0.1
-Release  : 6
+Release  : 7
 URL      : https://gitlab.com/BobyMCbobs/idle-python3.7-assets/-/archive/1.0.1/idle-python3.7-assets-1.0.1.tar.gz
 Source0  : https://gitlab.com/BobyMCbobs/idle-python3.7-assets/-/archive/1.0.1/idle-python3.7-assets-1.0.1.tar.gz
 Summary  : Python's Intergrated Development and Learning Environment
